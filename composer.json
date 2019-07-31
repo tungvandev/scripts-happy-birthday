@@ -1,0 +1,15 @@
+{
+    "name": "tungvandev/scripts-happy-birthday",
+    "description": "Script Happy Birthday",
+    "authors": [
+        {
+            "name": "Nguyen An Hung",
+            "email": "dev@nguyenanhung.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "monolog/monolog": "^1.23",
+        "curl/curl": "^1.8"
+    }
+}

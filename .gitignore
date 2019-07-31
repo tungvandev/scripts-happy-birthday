@@ -1,0 +1,18 @@
+# Services Files
+#-------------------------
+/vendor/
+
+# IDE Files
+#-------------------------
+.DS_Store
+/nbproject/
+.idea/*
+.phpintel/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/application/config/config_happy_birth_day.php

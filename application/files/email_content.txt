@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>happy_birthday</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Designed by vcms.gviet.vn -->
+<table id="Table_01" width="600" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td bgcolor="#FFFFFF">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_01.png" width="125" height="160" alt=""></td>
+		<td bgcolor="#FFFFFF">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_02.png" width="400" height="160" alt=""></td>
+		<td bgcolor="#FFFFFF">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_03.png" width="75" height="160" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FFFFFF">
+			&nbsp;</td>
+		<td style="border-left-style: solid; border-left-color: #898989; border-left-width: 1px; border-right-style: solid; border-right-color: #898989; border-right-width: 1px" bgcolor="#F4F4F4">
+		<table border="0" width="100%" cellspacing="10" cellpadding="0">
+			<tr>
+				<td colspan="3" align="center"><b><i>
+				<font size="5" color="#800080">Trần Thị Huyền Nga<br>20/10/1983 - 20/10/2017</font></i></b></td>
+			</tr>
+			<tr style="line-height: 24px;">
+				<td width="80">&nbsp;</td>
+				<td>
+
+					<div>Chúc mừng sinh nhật sếp nhà ta
+					<br>
+						Có mấy chút thơ đọc gọi là
+					<br>
+						Mừng cho sếp được thêm tuổi mới
+					<br>
+						Rạng rỡ công danh sự nghiệp thành
+						<br><br>
+						Hạnh phúc tiền tài luôn tấp nập
+					<br>
+						Gia đình trẻ nhỏ tiếng cười vui
+					<br>
+					
+						Sức khỏe dồi dào, tăng gia mạnh <br />
+					
+						Buôn bán kinh doanh, lợi nhuận nhiều.
+						</div>
+				</td>
+				<td width="20">&nbsp;</td>
+			</tr>
+			</table>
+		</td>
+		<td bgcolor="#FFFFFF">
+			&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor="#FFFFFF">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_07.png" width="125" height="206" alt=""></td>
+		<td bgcolor="#FFFFFF">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_08.png" width="400" height="206" alt=""></td>
+		<td bgcolor="#FFFFFF">
+			<a href="http://vcms.gviet.vn/">
+			<img style="display:block" border="0" src="http://vcms.gviet.vn/assets/happy_birthday/img_09.png" width="75" height="206" alt=""></a></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FFFFFF" colspan="3">
+			<div align="right">
+	<a href="http://vcms.gviet.vn" style="text-decoration: none">
+	<font face="Arial" size="1" color="#cccccc">
+	Designed by Team kỹ thuật PKD</font></a>
+</div></td>
+	</tr>
+</table>
+<!-- Designed by vcms.gviet.vn -->
+</body>
+</html>
